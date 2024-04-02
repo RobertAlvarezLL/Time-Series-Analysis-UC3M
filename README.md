@@ -29,11 +29,8 @@ Este repositorio contiene todos los scripts utilizados para el análisis, dividi
 ## Contribución
 Este proyecto está abierto a contribuciones. Si tienes ideas para mejorar los modelos o aplicar diferentes técnicas de análisis, no dudes en crear un `pull request` o abrir un `issue`.
 
-## Licencia
-[MIT](LICENSE) - para más detalles ver el archivo LICENSE.
-
 ## Contacto
-Para más información, preguntas o colaboraciones, por favor, contacta a robertoalvarezllordachs@gmail.com
+Para más información, preguntas o colaboraciones, por favor, contacta a robertoalvarezllordachs@gmail.com ó sofigianelli2@gmail.com
 
 ---
 
