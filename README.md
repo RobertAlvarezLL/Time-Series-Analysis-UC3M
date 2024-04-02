@@ -1,37 +1,37 @@
-# Time-Series-Analysis-Project-
-# Análisis de Series Temporales
+# Time-Series-Analysis-Project
+# Time Series Analysis
 
-## Descripción del Proyecto
-Este proyecto consiste en el análisis exhaustivo de una serie temporal, concretamente sobre datos de vuelos, particularmente en el contexto del tráfico en el aeropuerto y las operaciones de las aerolineas de la U.S. Airline Traffic Data, estos datos exhiben características de estacionalidad. Con el fin de comprender mejor el comportamiento de la serie y predecir futuros valores, se aplicaron técnicas de suavizado, análisis armónico, y redes neuronales en la primera parte del proyecto, seguido de un análisis completo de ARIMA, métodos de bootstrap, y modelos VAR en la segunda parte.
+## Project Description
+This project involves the exhaustive analysis of a time series, specifically on flight data, particularly in the context of airport traffic and U.S. Airline Traffic Data operations, which exhibit seasonality characteristics. To better understand the series behavior and predict future values, smoothing techniques, harmonic analysis, and neural networks were applied in the first part of the project, followed by a comprehensive ARIMA analysis, bootstrap methods, and VAR models in the second part.
 
-## Objetivos
-- Analizar una serie temporal con al menos 120 observaciones, preferentemente con estacionalidad.
-- Aplicar y comparar diferentes modelos y técnicas para estimar y predecir la serie temporal.
-- Evaluar los modelos basándose en el error cuadrático medio (MSE) y otros criterios como el criterio de información de Akaike (AIC).
+## Objectives
+- Analyze a time series with at least 120 observations, preferably exhibiting seasonality.
+- Apply and compare different models and techniques to estimate and predict the time series.
+- Evaluate the models based on the mean squared error (MSE) and other criteria such as the Akaike Information Criterion (AIC).
 
-## Metodología
-1. **Selección de Datos**: Los datos fueron seleccionados de [Kaggle](https://www.kaggle.com/datasets/yyxian/u-s-airline-traffic-data) por su relevancia y la presencia de estacionalidad.
-2. **División de Datos**: La serie fue dividida en dos segmentos, 80% para entrenamiento y 20% para pruebas, para facilitar la validación de los modelos.
-3. **Modelización**:
-   - **Parte I**: Se exploraron técnicas de suavizado como los modelos de Holt-Winter, análisis armónico, y redes neuronales.
-   - **Parte II**: Se realizó un análisis ARIMA completo, se aplicaron métodos de bootstrap para evaluar estimaciones e intervalos de confianza, y se exploraron los modelos VAR.
+## Methodology
+1. **Data Selection**: Data were selected from [Kaggle](https://www.kaggle.com/datasets/yyxian/u-s-airline-traffic-data) for their relevance and the presence of seasonality.
+2. **Data Splitting**: The series was divided into two segments, 80% for training and 20% for testing, to facilitate model validation.
+3. **Modeling**:
+   - **Part I**: Smoothing techniques like Holt-Winters models, harmonic analysis, and neural networks were explored.
+   - **Part II**: A comprehensive ARIMA analysis was conducted, bootstrap methods were applied to evaluate estimates and confidence intervals, and VAR models were explored.
 
-## Resultados
-- Se evaluaron diversos modelos en términos de precisión predictiva y MSE. Los detalles específicos de cada modelo, incluyendo los parámetros estimados y la precisión de las predicciones, se discuten en detalle en los documentos correspondientes.
-- La aplicación de técnicas avanzadas permitió una mejor comprensión de la serie temporal, destacando la importancia del análisis detallado en la predicción de futuras observaciones.
+## Results
+- Various models were evaluated in terms of predictive accuracy and MSE. The specific details of each model, including estimated parameters and prediction accuracy, are discussed in detail in the corresponding documents.
+- The application of advanced techniques allowed for a better understanding of the time series, highlighting the importance of detailed analysis in predicting future observations.
 
-## Herramientas y Tecnologías Utilizadas
+## Tools and Technologies Used
 - Python
-- Bibliotecas específicas para el análisis de series temporales como pandas, numpy, statsmodels, y matplotlib entre otras.
-## Cómo Usar
-Este repositorio contiene todos los scripts utilizados para el análisis, divididos por partes según se detalla en las tareas. Para replicar el análisis o aplicarlo a otros conjuntos de datos de series temporales, siga los comentarios detallados en cada script.
+- Specific libraries for time series analysis such as pandas, numpy, statsmodels, and matplotlib among others.
 
-## Contribución
-Este proyecto está abierto a contribuciones. Si tienes ideas para mejorar los modelos o aplicar diferentes técnicas de análisis, no dudes en crear un `pull request` o abrir un `issue`.
+## How to Use
+This repository contains all the scripts used for the analysis, divided by parts as detailed in the tasks. To replicate the analysis or apply it to other time series datasets, follow the detailed comments in each script.
 
-## Contacto
-Para más información, preguntas o colaboraciones, por favor, contacta a robertoalvarezllordachs@gmail.com ó sofigianelli2@gmail.com
+## Contribution
+This project is open to contributions. If you have ideas for improving the models or applying different analysis techniques, do not hesitate to create a `pull request` or open an `issue`.
 
----
+## Contact
+For more information, questions, or collaborations, please contact robertoalvarezllordachs@gmail.com or sofigianelli2@gmail.com
+
 
 
