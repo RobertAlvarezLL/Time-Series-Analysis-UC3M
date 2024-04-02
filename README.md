@@ -1,5 +1,4 @@
 # Time-Series-Analysis-Project
-# Time Series Analysis
 
 ## Project Description
 This project involves the exhaustive analysis of a time series, specifically on flight data, particularly in the context of airport traffic and U.S. Airline Traffic Data operations, which exhibit seasonality characteristics. To better understand the series behavior and predict future values, smoothing techniques, harmonic analysis, and neural networks were applied in the first part of the project, followed by a comprehensive ARIMA analysis, bootstrap methods, and VAR models in the second part.
